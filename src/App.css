@@ -1,0 +1,29 @@
+.homepage-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.header-container{
+    display: flex;
+    flex-direction: row;
+    height: 40%;
+    width: 100vw;
+}
+
+
+
+.header-logo{
+    justify-self: flex-start;
+}
+
+.header-nav-buttons{
+    display: flex;
+    flex: 1;
+    justify-content: center;
+}
+
+.header-print-buttons{
+    justify-self: flex-end;
+}
